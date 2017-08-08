@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "999965577865",
+    "firebase_url": "https://fir-student-app-8971e.firebaseio.com",
+    "project_id": "fir-student-app-8971e",
+    "storage_bucket": "fir-student-app-8971e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999965577865:android:09cea291728e08c4",
+        "android_client_info": {
+          "package_name": "com.example.a15017096.firebasestudentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999965577865-cab596fjq9e49dquc6th7cqrh9au99g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBykFxwGk8kr_5XfWD_6YXVyUWI_9UveeQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999965577865:android:1b277e4e1b1b6a33",
+        "android_client_info": {
+          "package_name": "com.example.a15017096.firebaseinventoryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999965577865-cab596fjq9e49dquc6th7cqrh9au99g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBykFxwGk8kr_5XfWD_6YXVyUWI_9UveeQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

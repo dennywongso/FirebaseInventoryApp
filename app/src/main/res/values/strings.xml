@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Firebase Inventory App</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="phones_array">
+        <item></item>
+        <item>Apple</item>
+        <item>Samsung</item>
+        <item>Oppo</item>
+        <item>Sony</item>
+        <item>Huawei</item>
+    </string-array>
+</resources>
